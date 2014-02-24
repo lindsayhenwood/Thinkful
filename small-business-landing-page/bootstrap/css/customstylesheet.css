@@ -1,0 +1,11 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+.col-lg-4 .col-md-1 .col-sm-5 .col-xs-5 {
+	padding: 5px;
+
+}
